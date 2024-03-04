@@ -1,5 +1,3 @@
-<body>
-
     <h1>Cervical Cancer Risk Prediction Using XG-Boost Classifier</h1>
 
     <p>This project involves building and training an XG-Boost classifier to predict whether a person has a risk of developing cervical cancer. Cervical cancer is a serious condition that causes thousands of deaths each year, highlighting the importance of early detection and prevention.</p>
@@ -20,5 +18,3 @@
 
     <h2>Conclusion</h2>
     <p>By utilizing the XG-Boost algorithm, we aim to create a predictive model that can effectively identify individuals at risk of developing cervical cancer, ultimately aiding in early intervention and treatment.</p>
-
-</body>
