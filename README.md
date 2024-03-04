@@ -2,13 +2,15 @@
 <p>This project involves building and training an XG-Boost classifier to predict whether a person has a risk of developing cervical cancer. Cervical cancer is a serious condition that causes thousands of deaths each year, highlighting the importance of early detection and prevention.</p>
 
 <h2>Project Overview</h2>
-    Task #1: Understand the Problem Statement and Business Case
-    Task #2: Import Libraries and Datasets
-    Task #3: Perform Exploratory Data Analysis
-    Task #4: Perform Data Visualization
-    Task #5: Prepare the data before Model Training
-    Task #6: Understand the Theory and Intuition Behind XG-Boost
-    Task #7: Train and Evaluate XG-Boost Algorithm
+    <ul>
+        <li>Task #1: Understand the Problem Statement and Business Case</li>
+        <li>Task #2: Import Libraries and Datasets</li>
+        <li>Task #3: Perform Exploratory Data Analysis</li>
+        <li>Task #4: Conduct Data Visualization</li>
+        <li>Task #5: Prepare the Data for Model Training</li>
+        <li>Task #6: Understand the Theory and Intuition Behind XG-Boost</li>
+        <li>Task #7: Train and Evaluate the XG-Boost Algorithm</li>
+    </ul>
 
 <h2>Data</h2>
 <p>The dataset contains information from 858 patients, including features such as number of pregnancies, smoking habits, STD history, demographics, and medical records.</p> 
